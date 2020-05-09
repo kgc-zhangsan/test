@@ -4,5 +4,6 @@ public class Hello
 	    System.out.prinltn("Hello");
 	    System.out.println("master say hello");
 	    System.out.println("Bug say hellow");
+	    System.out.println("Master say hello again");
 	}
 }
